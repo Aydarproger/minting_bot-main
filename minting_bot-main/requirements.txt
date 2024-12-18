@@ -1,0 +1,13 @@
+aiogram~=3.7.0
+python-decouple~=3.8
+pinata-python~=1.0.0
+pytz
+pyzbar
+pillow
+aiosqlite
+pytonconnect
+pytoniq_core
+qrcode
+aiohttp
+pinatapy-vourhey
+tonutils==0.0.5

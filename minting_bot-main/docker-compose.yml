@@ -1,0 +1,8 @@
+version: '3.9'
+
+services:
+  minting_bot:
+    image: ghcr.io/posterstock/minting_bot:latest
+    restart: always
+    env_file:
+      - .env
